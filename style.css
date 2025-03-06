@@ -1,0 +1,22 @@
+.container{
+	display : flex ;
+	justify-content:space-between;
+}
+.title {
+	text-align : center;
+}
+.container main{
+	width :50%;
+} 
+.container aside{
+	width :30%;
+}
+.container nav{
+	width :10%;
+}
+.container nav ul{
+ list-style-type:none;	
+}
+a{
+	text-decoration:none;
+}
